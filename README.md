@@ -6,8 +6,9 @@
 
 - 项目环境：Vue-cli-5.x、DataV-2.7.3、Echarts-4.6.0(如果5.x版本有问题，请切换到4.x版本)、Webpack-4.0、Npm-9.x、Node-v18。
 
-项目展示
-![项目展示](preview/preview.gif)
+项目预览地址：https://karenlhao.github.io/big-screen-vue-datav/
+
+项目预览![项目预览](preview/preview.gif)
 
 ## 二、主要文件介绍
 
@@ -152,3 +153,5 @@ Vue.prototype.$http = axios.create({
   baseURL: 'http://172.0.0.1:80080', //这里写后端地址
 });
 ```
+
+[def]: preview/preview.mp4
