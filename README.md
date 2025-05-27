@@ -1,7 +1,7 @@
 
 ## 一、项目描述
 
-- 一个基于 Vue、Datav、Echart 框架的 " **数据大屏项目** "，通过 Vue 组件实现数据动态刷新渲染，内部图表可实现自由替换。部分图表使用 DataV 自带组件，可进行更改，详情请点击下方 DataV 文档。
+- 一个基于 Vue、Datav、Echart 框架的 " **数据大屏项目** "
 
 
 - 项目环境：Vue-cli-5.x、DataV-2.7.3、Echarts-4.6.0(如果5.x版本有问题，请切换到4.x版本)、Webpack-4.0、Npm-9.x、Node-v18。
